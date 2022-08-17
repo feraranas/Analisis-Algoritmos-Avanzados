@@ -2,41 +2,72 @@
 
 #### En esta repo encuentras algoritmos implementados con diversos paradigmas algorítmicos.
 
-##### Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only.
+##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
 
 # Bubble Sort
 
 ### Bubble Sort
-_Archive:_ [bubblesort.c](../main/bubblesort.c)
+_Código:_ 
+- C++ [bubblesort.cpp](../main/bubblesort.cpp)
+- C [bubblesort.c](../main/bubblesort.c)
+- Python [bubblesort.py](../main/bubblesort.py)
+- Racket [bubblesort.rkt](../main/bubblesort.rkt)
 
 # Selection Sort
 
 ### Selection Sort
-_Código:_ [selectionsort.c](../main/selectionsort.c)
+_Código:_
+- C++ [selectionsort.cpp](../main/selectionsort.cpp)
+- C [selectionsort.c](../main/selectionsort.c)
+- Python [selectionsort.py](../main/selectionsort.py)
+- Racket [selectionsort.rkt](../main/selectionsort.rkt)
 
 # Insertion Sort
 
 ### Insertion Sort
 _Código:_ [insertionsort.c](../main/insertionsort.c)
+- C++ [insertionsort.cpp](../main/insertionsort.cpp)
+- C [insertionsort.c](../main/insertionsort.c)
+- Python [insertionsort.py](../main/insertionsort.py)
+- Racket [insertionsort.rkt](../main/insertionsort.rkt)
 
 ### Hanoi Towers
-_Código:_ [hanoitowers.c](../main/hanoitowers.c)
+_Código:_ 
+- C++ [hanoitowers.cpp](../main/hanoitowers.cpp)
+- C [hanoitowers.c](../main/hanoitowers.c)
+- Python [hanoitowers.py](../main/hanoitowers.py)
+- Racket [hanoitowers.rkt](../main/hanoitowers.rkt)
 
 # Merge Sort
 
 ### Merge Sort
 _Código:_ 
 - C++ [mergesort.cpp](../main/mergesort.cpp)
+- C [mergesort.c](../main/mergesort.c)
+- Python [mergesort.py](../main/mergesort.py)
+- Racket [mergesort.rkt](../main/mergesort.rkt)
 
 # Quick Sort
 
 ### Quick Sort
-_Código:_ [quicksort.c](../main/quicksort.c)
+_Código:_
+- C++ [quicksort.cpp](../main/quicksort.cpp)
+- C [quicksort.c](../main/quicksort.c)
+- Python [quicksort.py](../main/quicksort.py)
+- Racket [quicksort.rkt](../main/quicksort.rkt)
 
 # Programación Dinámica
 
 ### Fibonacci Series
-_Código:_ [fibonacciseries.c](../main/fibonacciseries.c)
+_Código:_
+- C++ [fibonacciseries.cpp](../main/fibonacciseries.cpp)
+- C [fibonacciseries.c](../main/fibonacciseries.c)
+- Python [fibonacciseries.py](../main/fibonacciseries.py)
+- Racket [fibonacciseries.rkt](../main/fibonacciseries.rkt)
 
-### Ruta más corta
-_Código:_ [rutacorta.c](../main/rutacorta.c)
+### Ruta más corta por matriz
+_Código:_
+- C++ [rutacorta.cpp](../main/rutacorta.cpp)
+- C [rutacorta.c](../main/rutacorta.c)
+- Python [rutacorta.py](../main/rutacorta.py)
+- Racket [rutacorta.rkt](../main/rutacorta.rkt)
