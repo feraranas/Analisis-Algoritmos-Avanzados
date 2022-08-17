@@ -4,7 +4,7 @@
 
 ##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
 
-# Bubble Sort
+# Paradigma 1
 
 ### Bubble Sort
 _Código:_ 
@@ -12,8 +12,6 @@ _Código:_
 - C [bubblesort.c](../main/bubblesort.c)
 - Python [bubblesort.py](../main/bubblesort.py)
 - Racket [bubblesort.rkt](../main/bubblesort.rkt)
-
-# Selection Sort
 
 ### Selection Sort
 _Código:_
@@ -38,7 +36,7 @@ _Código:_
 - Python [hanoitowers.py](../main/hanoitowers.py)
 - Racket [hanoitowers.rkt](../main/hanoitowers.rkt)
 
-# Merge Sort
+# Paradigma 2
 
 ### Merge Sort
 _Código:_ 
@@ -56,7 +54,9 @@ _Código:_
 - Python [quicksort.py](../main/quicksort.py)
 - Racket [quicksort.rkt](../main/quicksort.rkt)
 
-# Programación Dinámica
+# Paradigma 3
+
+### Programación Dinámica
 
 ### Fibonacci Series
 _Código:_
