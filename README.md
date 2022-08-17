@@ -25,7 +25,8 @@ _Código:_ [hanoitowers.c](../main/hanoitowers.c)
 # Merge Sort
 
 ### Merge Sort
-_Código:_ [mergesort.c](../main/mergesort.c)
+_Código:_ 
+- C++ [mergesort.cpp](../main/mergesort.cpp)
 
 # Quick Sort
 
