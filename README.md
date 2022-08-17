@@ -20,8 +20,6 @@ _Código:_
 - Python [selectionsort.py](../main/selectionsort.py)
 - Racket [selectionsort.rkt](../main/selectionsort.rkt)
 
-# Insertion Sort
-
 ### Insertion Sort
 _Código:_ [insertionsort.c](../main/insertionsort.c)
 - C++ [insertionsort.cpp](../main/insertionsort.cpp)
@@ -29,7 +27,7 @@ _Código:_ [insertionsort.c](../main/insertionsort.c)
 - Python [insertionsort.py](../main/insertionsort.py)
 - Racket [insertionsort.rkt](../main/insertionsort.rkt)
 
-### Hanoi Towers
+### Ejercicio: Hanoi Towers
 _Código:_ 
 - C++ [hanoitowers.cpp](../main/hanoitowers.cpp)
 - C [hanoitowers.c](../main/hanoitowers.c)
@@ -45,8 +43,6 @@ _Código:_
 - Python [mergesort.py](../main/mergesort.py)
 - Racket [mergesort.rkt](../main/mergesort.rkt)
 
-# Quick Sort
-
 ### Quick Sort
 _Código:_
 - C++ [quicksort.cpp](../main/quicksort.cpp)
@@ -58,14 +54,14 @@ _Código:_
 
 ### Programación Dinámica
 
-### Fibonacci Series
+### Ejercicio: Fibonacci Series
 _Código:_
 - C++ [fibonacciseries.cpp](../main/fibonacciseries.cpp)
 - C [fibonacciseries.c](../main/fibonacciseries.c)
 - Python [fibonacciseries.py](../main/fibonacciseries.py)
 - Racket [fibonacciseries.rkt](../main/fibonacciseries.rkt)
 
-### Ruta más corta por matriz
+### Ejercicio: Ruta más corta por matriz
 _Código:_
 - C++ [rutacorta.cpp](../main/rutacorta.cpp)
 - C [rutacorta.c](../main/rutacorta.c)
