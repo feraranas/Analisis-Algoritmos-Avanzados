@@ -66,7 +66,7 @@ _Código:_
 Una persona desea recorrer una matriz laberíntica donde solo puede caminar por los 1's y no puede caminar en diagonal. El ejercicio consiste en elabroar una rutina que indique la ruta más corta con un número para llegar a la esquina 0,0 a la esquina 4,4 en el menor número de pasos.
 
 <p center>
-  <img src="../img/laberintoMatrix.png" alt="Matriz Laberinto">
+  <img src="../img/matrizlaberinto.png" alt="Matriz Laberinto">
 </p>
 
 
