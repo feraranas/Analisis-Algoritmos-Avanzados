@@ -62,6 +62,14 @@ _Código:_
 - Racket [fibonacciseries.rkt](../main/fibonacciseries.rkt)
 
 ### Ejercicio: Ruta más corta por matriz
+
+Una persona desea recorrer una matriz laberíntica donde solo puede caminar por los 1's y no puede caminar en diagonal. El ejercicio consiste en elabroar una rutina que indique la ruta más corta con un número para llegar a la esquina 0,0 a la esquina 4,4 en el menor número de pasos.
+
+<p center>
+  <img src="../img/laberintoMatrix.png" alt="Matriz Laberinto">
+</p>
+
+
 _Código:_
 - C++ [rutacorta.cpp](../main/rutacorta.cpp)
 - C [rutacorta.c](../main/rutacorta.c)
