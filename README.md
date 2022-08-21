@@ -8,7 +8,8 @@
 
 ### Bubble Sort
 _Código:_ 
-- C++ [bubblesort.cpp](../main/bubblesort.cpp)
+- C++ [bubblesort_arreglos.cpp](../main/bubblesort_arreglos.cpp) // Usando arreglos estáticos
+- C++ [bubblesort_vectores.cpp](../main/bubblesort_vectores.cpp) // Usando vectores
 - C [bubblesort.c](../main/bubblesort.c)
 - Python [bubblesort.py](../main/bubblesort.py)
 - Racket [bubblesort.rkt](../main/bubblesort.rkt)
@@ -21,8 +22,9 @@ _Código:_
 - Racket [selectionsort.rkt](../main/selectionsort.rkt)
 
 ### Insertion Sort
-_Código:_ [insertionsort.c](../main/insertionsort.c)
-- C++ [insertionsort.cpp](../main/insertionsort.cpp)
+_Código:_
+- C++ [insertionsort_arreglos.cpp](../main/insertionsort.cpp) // Usando arreglos estáticos
+- C++ [insertionsort_vectores.cpp](../main/insertionsort_vectores.cpp) // Usando vectores
 - C [insertionsort.c](../main/insertionsort.c)
 - Python [insertionsort.py](../main/insertionsort.py)
 - Racket [insertionsort.rkt](../main/insertionsort.rkt)
