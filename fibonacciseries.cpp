@@ -3,7 +3,7 @@ using namespace std;
 
 void secuenciaFibonacci(int n, int a, int b) {
 
-  // Caso inicial donde a = 0, b = 0
+  // Caso inicial donde a = 0, b = 1
   if (a == 0 && b == 1) cout << a << " " << b;
 
   int c = a + b;
