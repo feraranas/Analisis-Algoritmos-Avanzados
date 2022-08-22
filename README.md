@@ -16,7 +16,8 @@ _Código:_
 
 ### Selection Sort
 _Código:_
-- C++ [selectionsort.cpp](../main/selectionsort.cpp)
+- C++ [selectionsort_arreglos.cpp](../main/selectionsort_arreglos.cpp) // Usando arreglos estáticos
+- C++ [selectionsort_vectores.cpp](../main/selectionsort_vectores.cpp) // Usando vectores
 - C [selectionsort.c](../main/selectionsort.c)
 - Python [selectionsort.py](../main/selectionsort.py)
 - Racket [selectionsort.rkt](../main/selectionsort.rkt)
