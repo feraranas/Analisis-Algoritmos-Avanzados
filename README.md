@@ -79,7 +79,7 @@ _Código:_
 - Python [rutacorta.py](../main/rutacorta.py)
 - Racket [rutacorta.rkt](../main/rutacorta.rkt)
 
-# Paradigma 3
+# Paradigma 4
 
 ### Programación Avara/Codiciosa
 
