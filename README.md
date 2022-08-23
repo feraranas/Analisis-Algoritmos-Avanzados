@@ -78,3 +78,11 @@ _Código:_
 - C [rutacorta.c](../main/rutacorta.c)
 - Python [rutacorta.py](../main/rutacorta.py)
 - Racket [rutacorta.rkt](../main/rutacorta.rkt)
+
+# Paradigma 3
+
+### Programación Avara/Codiciosa
+
+### Ejercicio: El problema de las monedas
+_Código:_
+- C++ [monedasavaro.cpp](../main/monedasavaro.cpp)
