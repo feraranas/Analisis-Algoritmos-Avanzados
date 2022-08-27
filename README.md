@@ -30,13 +30,7 @@ _Código:_
 - Python [insertionsort.py](../main/insertionsort.py)
 - Racket [insertionsort.rkt](../main/insertionsort.rkt)
 
-### Ejercicio: Hanoi Towers
-
-##### Explicación y código
-- [Torres de Hanoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/Torres-de-Hanoi/README.md)
-
-
-# Paradigma 2
+# Paradigma Divide y Venceras
 
 ### Merge Sort
 _Código:_ 
@@ -52,36 +46,56 @@ _Código:_
 - Python [quicksort.py](../main/quicksort.py)
 - Racket [quicksort.rkt](../main/quicksort.rkt)
 
-# Paradigma 3
+### Ejercicio: Hanoi Towers
 
-### Programación Dinámica
+##### Explicación y código
+- [Torres de Hanoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/Torres-de-Hanoi/README.md)
+
+
+# Paradigma Programación Dinámica
 
 ### Ejercicio: Fibonacci Series
-_Código:_
-- C++ [fibonacciseries.cpp](../main/fibonacciseries.cpp)
-- C [fibonacciseries.c](../main/fibonacciseries.c)
-- Python [fibonacciseries.py](../main/fibonacciseries.py)
-- Racket [fibonacciseries.rkt](../main/fibonacciseries.rkt)
+
+##### Explicación y código
+- [Fibonacci Series](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/fibonacci-series/README.md)
+
 
 ### Ejercicio: Ruta más corta por matriz
 
-Una persona desea recorrer una matriz laberíntica donde solo puede caminar por los 1's y no puede caminar en diagonal. El ejercicio consiste en elabroar una rutina que indique la ruta más corta con un número para llegar a la esquina 0,0 a la esquina 4,4 en el menor número de pasos.
-
-<p center>
-  <img src="../img/matrizlaberinto.png" alt="Matriz Laberinto">
-</p>
+##### Explicación y código
+- [Ruta más corta a traves de Matriz](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/ruta-corta-matriz/README.md)
 
 
-_Código:_
-- C++ [rutacorta.cpp](../main/rutacorta.cpp)
-- C [rutacorta.c](../main/rutacorta.c)
-- Python [rutacorta.py](../main/rutacorta.py)
-- Racket [rutacorta.rkt](../main/rutacorta.rkt)
-
-# Paradigma 4
-
-### Programación Avara/Codiciosa
+# Paradigma Programación Avara/Codiciosa
 
 ### Ejercicio: El problema de las monedas
-_Código:_
-- C++ [monedasavaro.cpp](../main/monedasavaro.cpp)
+
+##### Explicación y código
+- [El problema de las monedas](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/problema-monedas/README.md)
+
+### Ejercicio: Minimizar el tiempo de espera en una fila
+
+##### Explicación y código
+- [Minimizar tiempo de espera en una fila](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/minimizar-tiempo-fila/README.md)
+
+### Ejercicio: Maximización de horas dado limites de tiempo
+
+##### Explicación y código
+- [Maximizar de horario](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/maximizar-horario-clase/README.md)
+
+# Paradigma Backtracking
+
+### Ejercicio: El Problema de las N-Reinas
+
+##### Explicación y código
+- [El problema de las N-Reinas](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/problema-n-reinas/README.md)
+
+### Ejercicio: Sudoku
+
+##### Explicación y código
+- [Sudoku](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/sudoku/README.md)
+
+### Ejercicio: Busca la salida del laberinto
+
+##### Explicación y código
+- [Busca la salida del laberinto](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/busqueda-salida-laberinto/README.md)
