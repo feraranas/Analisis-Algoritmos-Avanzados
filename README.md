@@ -33,7 +33,7 @@ _Código:_
 ### Ejercicio: Hanoi Towers
 
 ##### Explicación y código
-- [Torres de Hanoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/Torres-de-Hanoi/)
+- [Torres de Hanoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/Torres-de-Hanoi/README.md)
 
 
 # Paradigma 2
