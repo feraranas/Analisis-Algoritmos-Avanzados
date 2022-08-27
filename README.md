@@ -4,7 +4,7 @@
 
 ##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
 
-# Paradigma 1
+# Paradigma Algoritmos de Comparación
 
 ### Bubble Sort
 _Código:_ 
