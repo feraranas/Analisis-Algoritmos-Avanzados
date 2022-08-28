@@ -65,6 +65,10 @@ _Código:_
 ##### Explicación y código
 - [Ruta más corta a traves de Matriz](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/ruta-corta-matriz/README.md)
 
+### Ejercicio: Recolección de dulces
+
+##### Explicación y código
+- [Recolección de dulces](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/recoleccion-dulces/README.md)
 
 # Paradigma Programación Avara/Codiciosa
 
@@ -99,3 +103,8 @@ _Código:_
 
 ##### Explicación y código
 - [Busca la salida del laberinto](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/busqueda-salida-laberinto/README.md)
+
+### Ejercicio: Máximo número de compañeros
+
+##### Explicación y código
+- [Máximo número de compañeros](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/maximo-numero-companeros/README.md)
