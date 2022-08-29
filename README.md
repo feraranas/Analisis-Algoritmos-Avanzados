@@ -6,11 +6,11 @@ Si dos usuarios mexicanos son amigos en Facebook, entonces son parte de la misma
 
 Por ejemplo, hay tres regiones mexicanas máximas en la siguiente matriz de 5 * 5:
 
-1 0 0 0 1
-1 0 1 1 0
-0 0 1 1 0
-0 0 0 0 1
-1 0 0 0 1
+1 0 0 0 1\n
+1 0 1 1 0\n
+0 0 1 1 0\n
+0 0 0 0 1\n
+1 0 0 0 1\n
 
 El tamaño máximo de una región mexicana es el número de usuarios en esa región. En este ejemplo, la región ubicada en la parte superior izquierda tiene el tamaño 2, la región de la derecha tiene el tamaño 7 y la región en la parte inferior izquierda tiene el tamaño 1.
 
