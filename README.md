@@ -108,3 +108,8 @@ _Código:_
 
 ##### Explicación y código
 - [Máximo número de compañeros](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/maximo-numero-companeros/README.md)
+
+### Ejercicio: The knight's tour problem
+
+##### Explicación y código
+- [The knight's tour problem](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/knights-tour-problem/README.md)
