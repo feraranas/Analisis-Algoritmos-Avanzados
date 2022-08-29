@@ -7,8 +7,8 @@ Si dos usuarios mexicanos son amigos en Facebook, entonces son parte de la misma
 Por ejemplo, hay tres regiones mexicanas máximas en la siguiente matriz de 5 * 5:
 
 1 0 0 0 1 <br>
-1 0 1 1 0 <br>
-0 0 1 1 0 <br>
+1 0 1  1 0 <br>
+0 0 1  1 0 <br>
 0 0 0 0 1 <br>
 1 0 0 0 1 <br>
 
