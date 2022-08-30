@@ -94,6 +94,11 @@ _Código:_
 ##### Explicación y código
 - [El problema de las N-Reinas](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/problema-n-reinas/README.md)
 
+### Ejercicio: El Raton en el laberinto
+
+##### Explicación y código
+- [El raton en el laberinto](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/raton-laberinto/README.md)
+
 ### Ejercicio: Sudoku
 
 ##### Explicación y código
