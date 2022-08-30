@@ -77,6 +77,7 @@ int busqueda_solucion_matriz(int a, int b, int i, int vsol[N][M], int x[8], int 
       if (busqueda_solucion_matriz(posible_casilla_x, posible_casilla_y, i + 1, vsol, x, y) == 1) 
         return 1;
       else 
+        // Backtracking
         vsol[posible_casilla_x][posible_casilla_y] = -1;
     }
   }
