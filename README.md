@@ -7,7 +7,7 @@ Los laberintos que _no contienen bucles_ se conocen como laberintos "simplemente
 ![ratonlaberinto](Tremaux_Maze_Solving_Algorithm.gif)
 
 _Código:_ 
-- C++ [ratonlaberinto.cpp](../raton-laberinto/knightstour.cpp)
-- C [ratonlaberinto.c](../raton-laberinto/knightstour.c)
-- Python [ratonlaberinto.py](../raton-laberinto/knightstour.py)
-- Racket [ratonlaberinto.rkt](../raton-laberinto/knightstour.rkt)
+- C++ [ratonlaberinto.cpp](../raton-laberinto/ratonlaberinto.cpp)
+- C [ratonlaberinto.c](../raton-laberinto/ratonlaberinto.c)
+- Python [ratonlaberinto.py](../raton-laberinto/ratonlaberinto.py)
+- Racket [ratonlaberinto.rkt](../raton-laberinto/ratonlaberinto.rkt)
