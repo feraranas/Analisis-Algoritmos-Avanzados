@@ -1,50 +1,44 @@
-# Analisis y Diseño de Algoritmos Avanzados
-
-#### En esta repo encuentras algoritmos implementados con diversos paradigmas algorítmicos.
-
-##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
-
 # Paradigma Algoritmos de Comparación
 
 ### Bubble Sort
 _Código:_ 
-- C++ [bubblesort_arreglos.cpp](../main/bubblesort_arreglos.cpp) // Usando arreglos estáticos
-- C++ [bubblesort_vectores.cpp](../main/bubblesort_vectores.cpp) // Usando vectores
-- C [bubblesort.c](../main/bubblesort.c)
-- Python [bubblesort.py](../main/bubblesort.py)
-- Racket [bubblesort.rkt](../main/bubblesort.rkt)
+- C++ [bubblesort_arreglos.cpp](../algoritmos-comparacion/bubblesort_arreglos.cpp) // Usando arreglos estáticos
+- C++ [bubblesort_vectores.cpp](../algoritmos-comparacion/bubblesort_vectores.cpp) // Usando vectores
+- C [bubblesort.c](../algoritmos-comparacion/bubblesort.c)
+- Python [bubblesort.py](../algoritmos-comparacion/bubblesort.py)
+- Racket [bubblesort.rkt](../algoritmos-comparacion/bubblesort.rkt)
 
 ### Selection Sort
 _Código:_
-- C++ [selectionsort_arreglos.cpp](../main/selectionsort_arreglos.cpp) // Usando arreglos estáticos
-- C++ [selectionsort_vectores.cpp](../main/selectionsort_vectores.cpp) // Usando vectores
-- C [selectionsort.c](../main/selectionsort.c)
-- Python [selectionsort.py](../main/selectionsort.py)
-- Racket [selectionsort.rkt](../main/selectionsort.rkt)
+- C++ [selectionsort_arreglos.cpp](../algoritmos-comparacion/selectionsort_arreglos.cpp) // Usando arreglos estáticos
+- C++ [selectionsort_vectores.cpp](../algoritmos-comparacion/selectionsort_vectores.cpp) // Usando vectores
+- C [selectionsort.c](../algoritmos-comparacion/selectionsort.c)
+- Python [selectionsort.py](../algoritmos-comparacion/selectionsort.py)
+- Racket [selectionsort.rkt](../algoritmos-comparacion/selectionsort.rkt)
 
 ### Insertion Sort
 _Código:_
-- C++ [insertionsort_arreglos.cpp](../main/insertionsort.cpp) // Usando arreglos estáticos
-- C++ [insertionsort_vectores.cpp](../main/insertionsort_vectores.cpp) // Usando vectores
-- C [insertionsort.c](../main/insertionsort.c)
-- Python [insertionsort.py](../main/insertionsort.py)
-- Racket [insertionsort.rkt](../main/insertionsort.rkt)
+- C++ [insertionsort_arreglos.cpp](../algoritmos-comparacion/insertionsort.cpp) // Usando arreglos estáticos
+- C++ [insertionsort_vectores.cpp](../algoritmos-comparacion/insertionsort_vectores.cpp) // Usando vectores
+- C [insertionsort.c](../algoritmos-comparacion/insertionsort.c)
+- Python [insertionsort.py](../algoritmos-comparacion/insertionsort.py)
+- Racket [insertionsort.rkt](../algoritmos-comparacion/insertionsort.rkt)
 
 # Paradigma Divide y Venceras
 
 ### Merge Sort
 _Código:_ 
-- C++ [mergesort.cpp](../main/mergesort.cpp)
-- C [mergesort.c](../main/mergesort.c)
-- Python [mergesort.py](../main/mergesort.py)
-- Racket [mergesort.rkt](../main/mergesort.rkt)
+- C++ [mergesort.cpp](../algoritmos-divide-venceras/mergesort.cpp)
+- C [mergesort.c](../algoritmos-divide-venceras/mergesort.c)
+- Python [mergesort.py](../algoritmos-divide-venceras/mergesort.py)
+- Racket [mergesort.rkt](../algoritmos-divide-venceras/mergesort.rkt)
 
 ### Quick Sort
 _Código:_
-- C++ [quicksort.cpp](../main/quicksort.cpp)
-- C [quicksort.c](../main/quicksort.c)
-- Python [quicksort.py](../main/quicksort.py)
-- Racket [quicksort.rkt](../main/quicksort.rkt)
+- C++ [quicksort.cpp](../algoritmos-divide-venceras/quicksort.cpp)
+- C [quicksort.c](../algoritmos-divide-venceras/quicksort.c)
+- Python [quicksort.py](../algoritmos-divide-venceras/quicksort.py)
+- Racket [quicksort.rkt](../algoritmos-divide-venceras/quicksort.rkt)
 
 ### Ejercicio: Hanoi Towers
 
