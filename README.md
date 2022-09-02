@@ -7,7 +7,7 @@ Tenemos tres cilindros y n discos. El objetivo es mover los n discos de un cilin
 3. Ningún disco más grande puede estar arriba de un disco más chico.
 
 _Código:_ 
-- C++ [hanoitowers.cpp](../main/hanoitowers.cpp)
-- C [hanoitowers.c](../main/hanoitowers.c)
-- Python [hanoitowers.py](../main/hanoitowers.py)
-- Racket [hanoitowers.rkt](../main/hanoitowers.rkt)
+- C++ [hanoitowers.cpp](../Torres-de-Hanoi/hanoitowers.cpp)
+- C [hanoitowers.c](../Torres-de-Hanoi/hanoitowers.c)
+- Python [hanoitowers.py](../Torres-de-Hanoi/hanoitowers.py)
+- Racket [hanoitowers.rkt](../Torres-de-Hanoi/hanoitowers.rkt)
