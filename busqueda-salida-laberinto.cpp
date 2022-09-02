@@ -1,9 +1,7 @@
 /*
 
-Alumno: Fernando Alfonso Arana Salas
-Matricula: A01272933
 
-Tarea: Aplicando "Técnica Recursiva Backtracking & Ramificación y poda"
+Tarea: Aplicando "Técnica Recursiva Backtracking"
 
 */
 
