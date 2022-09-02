@@ -34,17 +34,17 @@ _Código:_
 
 ### Merge Sort
 _Código:_ 
-- C++ [mergesort.cpp](../main/mergesort.cpp)
-- C [mergesort.c](../main/mergesort.c)
-- Python [mergesort.py](../main/mergesort.py)
-- Racket [mergesort.rkt](../main/mergesort.rkt)
+- C++ [mergesort.cpp](../algoritmos-divide-venceras/mergesort.cpp)
+- C [mergesort.c](../algoritmos-divide-venceras/mergesort.c)
+- Python [mergesort.py](../algoritmos-divide-venceras/mergesort.py)
+- Racket [mergesort.rkt](../algoritmos-divide-venceras/mergesort.rkt)
 
 ### Quick Sort
 _Código:_
-- C++ [quicksort.cpp](../main/quicksort.cpp)
-- C [quicksort.c](../main/quicksort.c)
-- Python [quicksort.py](../main/quicksort.py)
-- Racket [quicksort.rkt](../main/quicksort.rkt)
+- C++ [quicksort.cpp](../algoritmos-divide-venceras/quicksort.cpp)
+- C [quicksort.c](../algoritmos-divide-venceras/quicksort.c)
+- Python [quicksort.py](../algoritmos-divide-venceras/quicksort.py)
+- Racket [quicksort.rkt](../algoritmos-divide-venceras/quicksort.rkt)
 
 ### Ejercicio: Hanoi Towers
 
