@@ -24,7 +24,7 @@ _Código:_
 
 ### Insertion Sort
 _Código:_
-- C++ [insertionsort_arreglos.cpp](../algoritmos-comparacion/insertionsort.cpp) // Usando arreglos estáticos
+- C++ [insertionsort_arreglos.cpp](../algoritmos-comparacion/insertionsort_arreglos.cpp) // Usando arreglos estáticos
 - C++ [insertionsort_vectores.cpp](../algoritmos-comparacion/insertionsort_vectores.cpp) // Usando vectores
 - C [insertionsort.c](../algoritmos-comparacion/insertionsort.c)
 - Python [insertionsort.py](../algoritmos-comparacion/insertionsort.py)
