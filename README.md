@@ -4,7 +4,7 @@
 _Código:_ 
 - C++ [bubblesort_arreglos.cpp](../algoritmos-comparacion/bubblesort_arreglos.cpp) // Usando arreglos estáticos
 - C++ [bubblesort_vectores.cpp](../algoritmos-comparacion/bubblesort_vectores.cpp) // Usando vectores
-- C [bubblesort.c](../algoritmos-comparacion/bubblesort_c.c)
+- C [bubblesort.c](../algoritmos-comparacion/bubblesort.c)
 - Python [bubblesort.py](../algoritmos-comparacion/bubblesort.py)
 - Racket [bubblesort.rkt](../algoritmos-comparacion/bubblesort.rkt)
 
