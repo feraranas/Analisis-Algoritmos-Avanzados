@@ -4,7 +4,7 @@
 _Código:_ 
 - C++ [bubblesort_arreglos.cpp](../algoritmos-comparacion/bubblesort_arreglos.cpp) // Usando arreglos estáticos
 - C++ [bubblesort_vectores.cpp](../algoritmos-comparacion/bubblesort_vectores.cpp) // Usando vectores
-- C [bubblesort.c](../algoritmos-comparacion/bubblesort.c)
+- C [bubblesort.c](../algoritmos-comparacion/bubblesort_c.c)
 - Python [bubblesort.py](../algoritmos-comparacion/bubblesort.py)
 - Racket [bubblesort.rkt](../algoritmos-comparacion/bubblesort.rkt)
 
@@ -12,7 +12,7 @@ _Código:_
 _Código:_
 - C++ [selectionsort_arreglos.cpp](../algoritmos-comparacion/selectionsort_arreglos.cpp) // Usando arreglos estáticos
 - C++ [selectionsort_vectores.cpp](../algoritmos-comparacion/selectionsort_vectores.cpp) // Usando vectores
-- C [selectionsort.c](../algoritmos-comparacion/selectionsort.c)
+- C [selectionsort.c](../algoritmos-comparacion/selectionsort_c.c)
 - Python [selectionsort.py](../algoritmos-comparacion/selectionsort.py)
 - Racket [selectionsort.rkt](../algoritmos-comparacion/selectionsort.rkt)
 
