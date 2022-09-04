@@ -30,6 +30,14 @@ _Código:_
 - Python [insertionsort.py](../algoritmos-comparacion/insertionsort.py)
 - Racket [insertionsort.rkt](../algoritmos-comparacion/insertionsort.rkt)
 
+### Heap Sort
+_Código:_
+- C++ [heapsort_arreglos.cpp](../algoritmos-comparacion/heapsort_arreglos.cpp) // Usando arreglos estáticos
+- C++ [heapsort_vectores.cpp](../algoritmos-comparacion/heapsort_vectores.cpp) // Usando vectores
+- C [heapsort.c](../algoritmos-comparacion/heapsort.c)
+- Python [heapsort.py](../algoritmos-comparacion/heapsort.py)
+- Racket [heapsort.rkt](../algoritmos-comparacion/heapsort.rkt)
+
 # Paradigma Divide y Venceras
 
 ### Merge Sort
