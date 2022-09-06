@@ -126,3 +126,5 @@ _Código:_
 
 ##### Explicación y código
 - [The knight's tour problem](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/knights-tour-problem/README.md)
+
+# Paradigma KMP-Z
