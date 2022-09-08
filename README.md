@@ -2,7 +2,7 @@
 
 ### Buscando patrones con el algoritmo LPS - KMP
 
-
+![kmpgif](kmpgif.gif)
 
 ##### Implementaciones No-Optimizadas O(N^3)
 
