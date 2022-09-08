@@ -20,10 +20,10 @@ void funcionKmp(string patron, string texto);
 int main() {
 
   // Declaramos un texto 
-  string texto = "AAAAABAAAAAAB";
+  string texto = "ffffffBffffAAAAAABfff";
 
   // Declaramos un patrón
-  string patron = "AAAA";
+  string patron = "ffff";
 
   // Llamamos a la funcion kmp
   funcionKmp(patron, texto);
