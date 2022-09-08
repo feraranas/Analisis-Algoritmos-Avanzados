@@ -2,5 +2,11 @@
 
 ### Buscando patrones con el algoritmo LPS - KMP
 
-##### Explicación y código
-- [Algoritmo KMP](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/kmp/)
+
+
+_Código:_
+- C++ [lpskmp.cpp](../lpskmp.cpp)
+- C [lpskmp.c](../lpskmp.c)
+- Python [lpskmp.py](../lpskmp.py)
+- Racket [lpskmp.rkt](../lpskmp.rkt)
+
