@@ -128,3 +128,8 @@ _Código:_
 - [The knight's tour problem](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/knights-tour-problem/README.md)
 
 # Paradigma KMP-Z
+
+### Ejercicio: Buscando patrones con el algoritmo LPS - KMP
+
+##### Explicación y código
+- [Algoritmo KMP](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/kmp/README.md)
