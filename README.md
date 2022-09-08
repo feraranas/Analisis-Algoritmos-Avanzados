@@ -4,6 +4,8 @@
 
 
 
+##### Implementaciones No-Optimizadas O(N^3)
+
 _Código:_
 - C++ [lpskmp.cpp](../kmp/lpskmp.cpp)
 - C [lpskmp.c](../lpskmp.c)
