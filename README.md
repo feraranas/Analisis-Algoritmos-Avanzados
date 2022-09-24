@@ -23,3 +23,17 @@ _Código:_
 - C [insertionsort.c](../algoritmos-comparacion/insertionsort_c.c)
 - Python [insertionsort.py](../algoritmos-comparacion/insertionsort.py)
 - Racket [insertionsort.rkt](../algoritmos-comparacion/insertionsort.rkt)
+
+### Heap Sort
+_Código:_
+- C++ [heapsort.cpp](../algoritmos-comparacion/heapsort.cpp)
+- C [heapsort.c](../algoritmos-comparacion/heapsort.c)
+- Python [heapsort.py](../algoritmos-comparacion/heapsort.py)
+- Racket [heapsort.rkt](../algoritmos-comparacion/heapsort.rkt)
+
+### Counting Sort
+_Código:_
+- C++ [countingsort.cpp](../algoritmos-comparacion/countingsort.cpp)
+- C [countingsort.c](../algoritmos-comparacion/countingsort.c)
+- Python [countingsort.py](../algoritmos-comparacion/countingsort.py)
+- Racket [countingsort.rkt](../algoritmos-comparacion/countingsort.rkt)
