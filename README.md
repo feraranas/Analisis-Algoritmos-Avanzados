@@ -38,12 +38,22 @@ _Código:_
 - Python [heapsort.py](../algoritmos-comparacion/heapsort.py)
 - Racket [heapsort.rkt](../algoritmos-comparacion/heapsort.rkt)
 
+
+# Paradigma Algoritmos No-Comparativos
+
 ### Counting Sort
 _Código:_
-- C++ [countingsort.cpp](../algoritmos-comparacion/countingsort.cpp)
-- C [countingsort.c](../algoritmos-comparacion/countingsort.c)
-- Python [countingsort.py](../algoritmos-comparacion/countingsort.py)
-- Racket [countingsort.rkt](../algoritmos-comparacion/countingsort.rkt)
+- C++ [countingsort.cpp](../algoritmos-no-comparativos/countingsort.cpp)
+- C [countingsort.c](../algoritmos-no-comparativos/countingsort.c)
+- Python [countingsort.py](../algoritmos-no-comparativos/countingsort.py)
+- Racket [countingsort.rkt](../algoritmos-no-comparativos/countingsort.rkt)
+
+### Radix Sort
+_Código:_
+- C++ [radixsort.cpp](../algoritmos-no-comparativos/radixsort.cpp)
+- C [radixsort.c](../algoritmos-no-comparativos/radixsort.c)
+- Python [radixsort.py](../algoritmos-no-comparativos/radixsort.py)
+- Racket [radixsort.rkt](../algoritmos-no-comparativos/radixsort.rkt)
 
 # Paradigma Divide y Venceras
 
