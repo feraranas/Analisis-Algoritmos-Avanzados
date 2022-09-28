@@ -4,7 +4,7 @@
 
 ##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
 
-# Paradigma Algoritmos de Comparación
+# Algoritmos de Comparación
 
 ### Bubble Sort
 _Código:_ 
@@ -39,7 +39,7 @@ _Código:_
 - Racket [heapsort.rkt](../algoritmos-comparacion/heapsort.rkt)
 
 
-# Paradigma Algoritmos No-Comparativos
+# Algoritmos No-Comparativos
 
 ### Counting Sort
 _Código:_
@@ -55,7 +55,7 @@ _Código:_
 - Python [radixsort.py](../algoritmos-no-comparativos/radixsort.py)
 - Racket [radixsort.rkt](../algoritmos-no-comparativos/radixsort.rkt)
 
-# Paradigma Divide y Venceras
+# Algoritmos Divide y Venceras
 
 ### Merge Sort
 _Código:_ 
@@ -77,7 +77,7 @@ _Código:_
 - [Torres de Hanoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/Torres-de-Hanoi/README.md)
 
 
-# Paradigma Programación Dinámica
+# Algoritmos Programación Dinámica
 
 ### Ejercicio: Fibonacci Series
 
@@ -95,7 +95,7 @@ _Código:_
 ##### Explicación y código
 - [Recolección de dulces](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/recoleccion-dulces/README.md)
 
-# Paradigma Programación Avara/Codiciosa
+# Algoritmos Avaros/Codiciosos/Voraces
 
 ### Ejercicio: El problema de las monedas
 
@@ -112,7 +112,7 @@ _Código:_
 ##### Explicación y código
 - [Maximizar de horario](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/maximizar-horario-clase/README.md)
 
-# Paradigma Backtracking
+# Algoritmos Backtracking
 
 ### Ejercicio: El Problema de las N-Reinas
 
@@ -144,7 +144,7 @@ _Código:_
 ##### Explicación y código
 - [The knight's tour problem](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/knights-tour-problem/README.md)
 
-# Paradigma KMP-Z
+# Algoritmo KMP-Z
 
 ### Ejercicio: Buscando patrones con el algoritmo LPS - KMP
 
