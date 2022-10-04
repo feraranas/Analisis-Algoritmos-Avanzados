@@ -3,7 +3,7 @@
 ### Trie
 
 ##### Explicación y código
-- [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/trie/README.md)
+- [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/Trie/README.md)
 
 ### Compressed Trie
 
