@@ -3,6 +3,6 @@
 _Código:_ 
 
 - C++ [Trie.cpp](../Trie/trie.cpp)
-- C [Trie.c](../Trie/trie.c
+- C [Trie.c](../Trie/trie.c)
 - Python [Trie.py](../Trie/trie.py)
-- Racket [Trie.rkt](../Trie/trie.rkt
+- Racket [Trie.rkt](../Trie/trie.rkt)
