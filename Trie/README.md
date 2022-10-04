@@ -3,6 +3,6 @@
 _Código:_ 
 
 - C++ [Trie.cpp](../Trie/trie.cpp)
-- C [Trie.c](../algoritmos-comparacion/bubblesort.c)
-- Python [Trie.py](../grafos/trie/trie.py)
-- Racket [Trie.rkt](../algoritmos-comparacion/bubblesort.rkt)
+- C [Trie.c](../Trie/trie.c
+- Python [Trie.py](../Trie/trie.py)
+- Racket [Trie.rkt](../Trie/trie.rkt
