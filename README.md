@@ -8,9 +8,9 @@
 ### Compressed Trie
 
 ##### Explicación y código
-- [Compressed Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/compressed-trie/README.md)
+- [Compressed Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/CompressedTrie/README.md)
 
 ### Ternary Search Tree
 
 ##### Explicación y código
-- [Ternary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/ternary-search-tree/README.md)
+- [Ternary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/TernarySearchTree/README.md)
