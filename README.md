@@ -153,22 +153,11 @@ _Código:_
 
 # Grafos
 
-### [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
+### 1. [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
-##### Explicación y código
-- [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
+### 2. [Compressed Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
-### Compressed Trie
+### 3. [Binary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
-##### Explicación y código
-- [Compressed Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
+### 4. [Ternary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
-### Binary Search Tree
-
-##### Explicación y código
-- [Binary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
-
-### Ternary Search Tree
-
-##### Explicación y código
-- [Ternary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
