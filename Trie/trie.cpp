@@ -75,22 +75,6 @@ void insertar_palabra(string palabra, int i, int m, Nodo *trie) {
   return;
 }
 
-// Buscar del trie
-void busqueda_palabra(string palabra, int i, int m, Nodo *trie) {
-  int indice = es_mayuscula_minuscula_numero(palabra[i]);
-  if (i < m) {
-    if (i == m - 1) {
-      if ((trie->n[indice] != NULL) && (trie->n[indice]->letra == palabra[i])) {
-        cout << palabra << endl;
-      }
-    } else {
-      if ((trie->n[indice] != NULL) && (trie->n[indice]->letra == palabra[i])) {
-        busqueda_palabra(palabra, i + 1, m, trie->n[indice]);
-      }
-    }
-  }
-}
-
 void busqueda(string palabra, int i, int m, Nodo *trie) {
 
   int indice = es_mayuscula_minuscula_numero(palabra[i]);
@@ -205,11 +189,6 @@ int main() {
 
   int num2 = stoi(m);
 
-  if (num < num2) {
-    cout << "Ingresa un numero valido de palabras a buscar" << endl;
-    return 0;
-  }
-
   cout << endl
        << "Ahora ingresa " << num2 << " palabras a buscar: " << endl
        << endl;
@@ -240,7 +219,7 @@ int main() {
   cout << "BOOLEANOS BÚSQUEDA DE PALABRAS" << endl;
   cout << endl;
   // Código de búsqueda
-  for (int i = 0; i < nPalabras; i++) {
+  for (int i = 0; i < vPalabrasBusqueda.size(); i++) {
     string palabra = vPalabrasBusqueda[i];
     int n = palabra.length();
     busqueda(palabra, 0, n, raiz);
