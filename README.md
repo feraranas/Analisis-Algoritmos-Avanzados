@@ -153,7 +153,7 @@ _Código:_
 
 # Grafos
 
-### Trie
+### [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
 ##### Explicación y código
 - [Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
