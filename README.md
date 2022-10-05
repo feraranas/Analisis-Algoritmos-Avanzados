@@ -163,6 +163,11 @@ _Código:_
 ##### Explicación y código
 - [Compressed Trie](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
+### Binary Search Tree
+
+##### Explicación y código
+- [Binary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
+
 ### Ternary Search Tree
 
 ##### Explicación y código
