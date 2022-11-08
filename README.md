@@ -2,7 +2,7 @@
 
 ### 1. Proximidad e intersección
 
-- [Interseccion y proximidad](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Interseccion y proximidad](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/ProximidadInterseccion/README.md)
 
 ### 2. Diagramas de Voronoi y triangulación de Delaunay
 
@@ -12,7 +12,7 @@
 
 ### 3. Búsqueda geométrica
 
-- [Búsqueda geométrica](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Búsqueda geométrica](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/BusquedaGeometrica/README.md)
 
 ### 4. Arreglos de hiperplanos
 
