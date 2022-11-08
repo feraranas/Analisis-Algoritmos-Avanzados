@@ -1,6 +1,6 @@
 ## Búsqueda geométrica se puede aplicar en:
 
-#### Vecino más cercano.<br>
+### Vecino más cercano.<br>
 
 _Código:_ 
 
@@ -9,7 +9,7 @@ _Código:_
 - Python [main.py](../ProximidadInterseccion/Vecinomascercano/main.py)
 - Racket [main.rkt](../ProximidadInterseccion/Vecinomascercano/main.rkt)
 
-#### Búsqueda de rango.<br>
+### Búsqueda de rango.<br>
 
 _Código:_ 
 
@@ -18,7 +18,7 @@ _Código:_
 - Python [main.py](../ProximidadInterseccion/Busquedarango/main.py)
 - Racket [main.rkt](../ProximidadInterseccion/Busquedarango/main.rkt)
 
-#### Localización de un punto en un espacio dividido en celdas.<br>
+### Localización de un punto en un espacio dividido en celdas.<br>
 
 _Código:_ 
 
@@ -27,7 +27,7 @@ _Código:_
 - Python [main.py](../ProximidadInterseccion/Localizacionpunto/main.py)
 - Racket [main.rkt](../ProximidadInterseccion/Localizacionpunto/main.rkt)
 
-#### Trazado de rayos.<br>
+### Trazado de rayos.<br>
 
 _Código:_ 
 
