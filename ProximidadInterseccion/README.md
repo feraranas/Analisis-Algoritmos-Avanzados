@@ -1,9 +1,9 @@
 Búsqueda geométrica se puede aplicar en:
 
-Vecino más cercano.
-Búsqueda de rango.
-Localización de un punto en un espacio dividido en celdas.
-Trazado de rayos.
+Vecino más cercano.<br>
+Búsqueda de rango.<br>
+Localización de un punto en un espacio dividido en celdas.<br>
+Trazado de rayos.<br>
 
 ### Implementación
 
