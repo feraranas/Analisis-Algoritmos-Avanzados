@@ -6,9 +6,9 @@
 
 ### 2. Diagramas de Voronoi y triangulación de Delaunay
 
-- [Diagramas de Voronoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Diagramas de Voronoi](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/DiagramaVoronoi/README.md)
 
-- [Triangulación de Delaunay](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Triangulación de Delaunay](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/TriangulacionDelaunay/README.md)
 
 ### 3. Búsqueda geométrica
 
@@ -16,13 +16,14 @@
 
 ### 4. Arreglos de hiperplanos
 
-- [Arreglos de hiperplanos](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Arreglos de hiperplanos](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/ArregloHiperplanos/README.md)
 
 ### 5. Cascos convexos, politopos y computación
 
 #### Implementación polígonos convexos usando Método de Graham
-- [Graham Mehtod](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+
+- [Polígonos Convexos](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/CascosConvexos_Politopos/README.md)
 
 ### 6. Algoritmos aleatorizados
 
-- [Algoritmos aleatorizados](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Algoritmos aleatorizados](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/AlgoritmosAleatoriREADME.md)
