@@ -186,6 +186,6 @@ _Código:_
 #### Implementación polígonos convexos usando Método de Graham
 - [Graham Mehtod](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
 
-### 6. Algoritmos aleatorizados
+# Algoritmos aleatorizados
 
-- [Algoritmos aleatorizados](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/geometria_computacional/README.md)
+- [Algoritmos aleatorizados](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/algoritmos_aleatorizados/README.md)
