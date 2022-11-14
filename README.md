@@ -4,7 +4,7 @@ El recorrido de un caballo es una secuencia de movimientos de un caballo en un t
 
 Variaciones del problema del recorrido del caballo involucran tableros de ajedrez de diferentes tamaños de los habituales de 8 × 8, así como tableros irregulares (no rectangulares).
 
-<div align-item="center">
+<div style=align-item:"center">
   ![knightstour](Knight's_tour_anim_2.gif)
 </div>
 
