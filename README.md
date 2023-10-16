@@ -163,6 +163,9 @@ _Código:_
 
 ### 4. [Ternary Search Tree](https://github.com/feraranas/Analisis-Algoritmos-Avanzados/blob/grafos/README.md)
 
+### 5. [DOM Diffing Tree](https://www.geeksforgeeks.org/explain-dom-diffing/)
+### 5.1 [DOM Diffing Tree 2](https://www.geeksforgeeks.org/what-is-diffing-algorithm/)
+
 # Geometria Computacional
 
 ### 1. Proximidad e intersección
