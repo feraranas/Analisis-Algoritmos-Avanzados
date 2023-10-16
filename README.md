@@ -165,6 +165,7 @@ _Código:_
 
 ### 5. [DOM Diffing Tree](https://www.geeksforgeeks.org/explain-dom-diffing/)
 ### 5.1 [DOM Diffing Tree 2](https://www.geeksforgeeks.org/what-is-diffing-algorithm/)
+### 5.2 [DOM Diffing Tree 3](https://engineering.wingify.com/dom-comparator/the-algorithm)
 
 # Geometria Computacional
 
