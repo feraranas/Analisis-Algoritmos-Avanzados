@@ -5,7 +5,7 @@
 <details>
 <summary>Math algorithms</summary>
 
-<detail>
+<details>
 <summary>Newton Raphson Algorithm to Calculate the Square root</summary>
 
 <ol>
@@ -22,7 +22,7 @@
 <li>Stop; you have finished.</li>
 </ol>
 
-```mermaid.js
+```mermaid
 graph TD
     A[Start] --> B[Read input x]
     B --> C[Output x]
@@ -37,10 +37,9 @@ graph TD
     J -->|No| L[Output s]
     L --> K
 ```
-  
-</details>
 
-</detail>
+</details>
+</details>
 
 # Algoritmos de Comparación
 
