@@ -2,7 +2,43 @@
 
 #### En esta repo encuentras algoritmos implementados con diversos paradigmas algorítmicos.
 
-##### _Disclosure: The solutions were implemented by myself & are not intented to give on the answers to other students. This repo is for learning purposes only._
+<detail>
+<summary>Math algorithms</summary>
+
+<detail>
+<summary>Newton Raphson Algorithm to Calculate the Square root</summary>
+
+1. Read a number from the input list, and let x be the name of a memory cell whose initial value is this number.
+2. Write the value in memory cell x. This is called the output.
+3. If the value in x is less than zero, execute instruction 11. Otherwise continue to instruction 4.
+4. Let s be the name of a memory cell whose initial value is 1.
+5. Let i be the name of a memory cell whose initial value is 3.
+6. lculate the value of (s+(x/s))/2. Let t be the name of a memory cell whose value is the calculated quantity; that is, set t equal to the value of (x+(x/s))/2.
+7. Assign the value in to to memory cell s. That is, set s equal to the value in t and forget the old value associated with s.
+8. Decrease the value in memory cell i by 1.
+9. If the value in i is positive, execute instruction 6. Otherwise, continue to instruction 10.
+10. Write the value in s on the output answer sheet.
+11. Stop; you have finished.
+
+```mermaid.js
+graph TD
+    A[Start] --> B[Read input x]
+    B --> C[Output x]
+    C --> D{x < 0?}
+    D -->|Yes| K[Stop]
+    D -->|No| E[s = 1, i = 3]
+    E --> G[t = s + x/s / 2]
+    G --> H[s = t]
+    H --> I[i = i - 1]
+    I --> J{i > 0?}
+    J -->|Yes| G
+    J -->|No| L[Output s]
+    L --> K
+```
+  
+</detail>
+
+</detail>
 
 # Algoritmos de Comparación
 
